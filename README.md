@@ -1,4 +1,4 @@
-# SPRING 6. PROFUNDIZANDO REACT - S6.Presupuestos (React)
+# REACT - Presupuestos
 ## Descripción del proyecto
 
 La aplicación permite generar **presupuestos** para un sitio web mediante casillas de selección, campos de entrada y botones. Los usuarios pueden personalizar sus presupuestos, agregando servicios como SEO, publicidad o diseño web, y obtener un presupuesto **personalizado**. Además, ofrece la opción de guardar estos presupuestos asociándolos a un correo electrónico para su posterior acceso.
@@ -74,8 +74,8 @@ Los presupuestos generados se pueden guardar y asociar a un correo electrónico,
 1. Clona el repositorio
 
    ```bash
-   git clone https://github.com/danilly7/s6.Budgets.git
-   cd s6.Budgets
+   git clone https://github.com/danilly7/budgets.git
+   cd budgets
    ``` 
    
 2. Asegúrate de tener Node.js instalado
